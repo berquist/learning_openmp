@@ -6,7 +6,7 @@
 int main()
 {
 
-  int num_steps = 1024;
+  int num_steps = 10000000;
 
   int i;
   double step;

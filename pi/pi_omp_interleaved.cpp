@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 
-  int num_steps = 16;
+  int num_steps = 10000000;
 
   double step;
   double pi;
